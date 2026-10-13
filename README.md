@@ -343,7 +343,7 @@ for every distinct threshold using cumulative sums ($O(n \log n)$ in total), and
 
 ---
 
-## 9. Evaluation metrics (also from scratch)
+## 9. Evaluation metrics 
 
 - **Confusion matrix**: TP, FP, FN, TN by direct counting
 - **Precision** $= TP/(TP+FP)$, **Recall** $= TP/(TP+FN)$, **F1** $= 2PR/(P+R)$
